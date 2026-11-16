@@ -38,3 +38,6 @@ new_sqlite_classes = [ "NotificationsHub" ]
 [[migrations]]
 tag = "v2-backup-transfer-runner"
 new_sqlite_classes = [ "BackupTransferRunner" ]
+
+[vars]
+JWT_SECRET = "COMxf5qu989VpGd5-9SblYA1lA2uX140"
