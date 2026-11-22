@@ -41,3 +41,7 @@ new_sqlite_classes = [ "BackupTransferRunner" ]
 
 [vars]
 JWT_SECRET = "COMxf5qu989VpGd5-9SblYA1lA2uX140"
+
+[observability.logs]
+enabled = true
+invocation_logs = true
